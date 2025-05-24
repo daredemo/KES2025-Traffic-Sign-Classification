@@ -1,3 +1,14 @@
+journal
+csv_final
+html_base
+html_KES_bak
+hello.py
+sns_lines_test.py
+Ridges.ipynb
+*.ipynb
+D_TRAIN2_F_PE.py
+E_TRAIN2_F_PD.py
+DE_mapping.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,22 @@
+[project]
+name = "de-tsigns"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=2.2.0",
+    "pandas>=2.2.3",
+    "pillow>=11.0.0",
+    "pycm>=4.1",
+    "seaborn>=0.13.2",
+    "torch>=2.5.1",
+    "torchvision>=0.20.1",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.0",
+    "torchinfo>=1.8.0",
+]
