@@ -37,10 +37,10 @@
 
 | Model         | No of illustrations | Report                            |
 |---------------|---------------------|-----------------------------------|
-| $E+GPM_{120}$ | 120                 | [LINK](https://htmlpreview.github.io/?https://github.com/daredemo/KES2025-Traffic-Sign-Classification/blob/6b7a9d987b7f9fee186551fb5dad95b6d1a21e2c/experiment2/cm2_f_e_mix_120.html) |
-| $E+GPM_{90}$  | 90                  | [LINK](https://htmlpreview.github.io/?https://github.com/daredemo/KES2025-Traffic-Sign-Classification/blob/6b7a9d987b7f9fee186551fb5dad95b6d1a21e2c/experiment2/cm2_f_e_mix_90.html)  |
-| $E+GPM_{60}$  | 60                  | [LINK](https://htmlpreview.github.io/?https://github.com/daredemo/KES2025-Traffic-Sign-Classification/blob/6b7a9d987b7f9fee186551fb5dad95b6d1a21e2c/experiment2/cm2_f_e_mix_60.html)  |
-| $E+GPM_{30}$  | 30                  | [LINK](https://htmlpreview.github.io/?https://github.com/daredemo/KES2025-Traffic-Sign-Classification/blob/6b7a9d987b7f9fee186551fb5dad95b6d1a21e2c/experiment2/cm2_f_e_mix_30.html)  |
-| $E+GPM_{0}$   | 0                   | [LINK](https://htmlpreview.github.io/?https://github.com/daredemo/KES2025-Traffic-Sign-Classification/blob/6b7a9d987b7f9fee186551fb5dad95b6d1a21e2c/experiment2/cm2_f_e_mix_0.html)  |
+| $E+EPM_{120}$ | 120                 | [LINK](https://htmlpreview.github.io/?https://github.com/daredemo/KES2025-Traffic-Sign-Classification/blob/6b7a9d987b7f9fee186551fb5dad95b6d1a21e2c/experiment2/cm2_f_e_mix_120.html) |
+| $E+EPM_{90}$  | 90                  | [LINK](https://htmlpreview.github.io/?https://github.com/daredemo/KES2025-Traffic-Sign-Classification/blob/6b7a9d987b7f9fee186551fb5dad95b6d1a21e2c/experiment2/cm2_f_e_mix_90.html)  |
+| $E+EPM_{60}$  | 60                  | [LINK](https://htmlpreview.github.io/?https://github.com/daredemo/KES2025-Traffic-Sign-Classification/blob/6b7a9d987b7f9fee186551fb5dad95b6d1a21e2c/experiment2/cm2_f_e_mix_60.html)  |
+| $E+EPM_{30}$  | 30                  | [LINK](https://htmlpreview.github.io/?https://github.com/daredemo/KES2025-Traffic-Sign-Classification/blob/6b7a9d987b7f9fee186551fb5dad95b6d1a21e2c/experiment2/cm2_f_e_mix_30.html)  |
+| $E+EPM_{0}$   | 0                   | [LINK](https://htmlpreview.github.io/?https://github.com/daredemo/KES2025-Traffic-Sign-Classification/blob/6b7a9d987b7f9fee186551fb5dad95b6d1a21e2c/experiment2/cm2_f_e_mix_0.html)  |
 
 
